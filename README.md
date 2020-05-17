@@ -42,7 +42,7 @@ The data from the sensor fusion and simulator is used to generate the prediction
 ### Behaviour Planning 
 
 
-My algo for behaviour planning is as follows-:
+Algorithm for behaviour planning is as follows-:
 
 1. The car checks 30 m ahead if there is any car present or not.
 2. If the senses a car 30 m ahead and it is slow moving so it tries to change the lane.
